@@ -105,7 +105,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
   - Czas treningu: <30 sekund
   - Rozmiar modelu: ~2 MB
 
-  ![Model A](images/modela.png)
+  ![Model A](modela.png)
 
 ### **6.2 Model B: Sieć neuronowa zbudowana od zera (LSTM)**
 - **Framework:** TensorFlow/Keras
@@ -147,7 +147,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
   - AUC: **~0.95**
   - Czas treningu: ~5-10 minut (CPU)
   - Rozmiar modelu: ~15 MB
-  ![Model B](images/modelb.png)
+  ![Model B](modelb.png)
 
 ### **6.3 Model C: Transformer (DistilBERT Fine-tuning)**
 - **Nazwa modelu:** `distilbert-base-uncased`
@@ -176,7 +176,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
   - Czas treningu: ~20-40 minut (CPU, subsampled data)
   - Rozmiar modelu: ~250 MB
   - **Uwaga:** Wyniki ograniczone przez trening na tylko 2k próbach
-  ![Model C](images/modelc.png)
+  ![Model C](modelc.png)
 
 ---
 
@@ -201,14 +201,14 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
 
 _Szczegółowe wyniki i wizualizacje dostępne w [4_Evaluation.ipynb](4_Evaluation.ipynb)._
 
-  ![Porownanie](images/prediction_compare.png)
+  ![Porownanie](prediction_compare.png)
 
 **Wizualizacje (zrealizowane w Notebook 4):**  
 - Confusion Matrix dla wszystkich modeli
 - ROC Curves z AUC scores
 - Analiza błędów (top 5 worst predictions dla DistilBERT)
-  ![Confusion Matrix dla wszystkich modeli](images/accuracy.png)
-  ![ROC Curve](images/roc_curve.png)
+  ![Confusion Matrix dla wszystkich modeli](accuracy.png)
+  ![ROC Curve](roc_curve.png)
 
 ---
 
@@ -338,5 +338,6 @@ Projekt edukacyjny stworzony na potrzeby  **Zastosowania Uczenia Maszynowego (ZU
 
 **Projekt:** Zastosowania Uczenia Maszynowego – Projekt końcowy 2025/2026  
 **Autor:** Magdalena Sokolowska
+
 
 ---
