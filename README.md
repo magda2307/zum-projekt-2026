@@ -176,7 +176,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
   - Czas treningu: ~20-40 minut (CPU, subsampled data)
   - Rozmiar modelu: ~250 MB
   - **Uwaga:** Wyniki ograniczone przez trening na tylko 2k próbach
-  ![Model C](images/modelC.PNG)
+  ![Model C](images/ModelC.PNG)
 
 ---
 
@@ -340,6 +340,7 @@ Projekt edukacyjny stworzony na potrzeby  **Zastosowania Uczenia Maszynowego (ZU
 **Autor:** Magdalena Sokolowska
 
 ---
+
 
 
 
