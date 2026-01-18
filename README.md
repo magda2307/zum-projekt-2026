@@ -105,7 +105,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
   - Czas treningu: <30 sekund
   - Rozmiar modelu: ~2 MB
 
-  ![Model A](images/modela.png)
+  ![Model A](images/modela.PNG)
 
 ### **6.2 Model B: Sieć neuronowa zbudowana od zera (LSTM)**
 - **Framework:** TensorFlow/Keras
@@ -147,7 +147,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
   - AUC: **~0.95**
   - Czas treningu: ~5-10 minut (CPU)
   - Rozmiar modelu: ~15 MB
-  ![Model B](images/modelb.png)
+  ![Model B](images/modelb.PNG)
 
 ### **6.3 Model C: Transformer (DistilBERT Fine-tuning)**
 - **Nazwa modelu:** `distilbert-base-uncased`
@@ -176,7 +176,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
   - Czas treningu: ~20-40 minut (CPU, subsampled data)
   - Rozmiar modelu: ~250 MB
   - **Uwaga:** Wyniki ograniczone przez trening na tylko 2k próbach
-  ![Model C](images/modelc.png)
+  ![Model C](images/modelc.PNG)
 
 ---
 
@@ -340,4 +340,5 @@ Projekt edukacyjny stworzony na potrzeby  **Zastosowania Uczenia Maszynowego (ZU
 **Autor:** Magdalena Sokolowska
 
 ---
+
 
