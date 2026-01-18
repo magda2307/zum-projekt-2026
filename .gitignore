@@ -73,8 +73,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Agent/Bot notes (auto-generated documentation)
-.copilot-notes.md
-.agent-notes.md
-*-notes-internal.md
