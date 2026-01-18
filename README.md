@@ -201,7 +201,7 @@ Projekt obejmuje trzy różne podejścia do modelowania danych:
 
 _Szczegółowe wyniki i wizualizacje dostępne w [4_Evaluation.ipynb](4_Evaluation.ipynb)._
 
-  ![Porownanie](images/prediction_compare.png)
+  ![Porownanie](images/prediction_compare.PNG)
 
 **Wizualizacje (zrealizowane w Notebook 4):**  
 - Confusion Matrix dla wszystkich modeli
@@ -340,3 +340,4 @@ Projekt edukacyjny stworzony na potrzeby  **Zastosowania Uczenia Maszynowego (ZU
 **Autor:** Magdalena Sokolowska
 
 ---
+
